@@ -2,7 +2,7 @@
 Examining successful and failed Kickstarters to maximize the chances of launching a successful one.
 ---
 Through an examination of various kickstarter campaigns, we have determined some key factors to keep in mind for the launch of your own project.
-We found, as shown below, that there have been more sucessfully theatre projects on Kickstarter than any other category in the data we analyzed. 
+We found, as shown below, that there have been more sucessfully funded theatre projects on Kickstarter than any other category in the data we analyzed. 
 ---  
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/65263502/121791722-ecac4300-cbba-11eb-98f9-f6fbb9edab55.png)
 ---
