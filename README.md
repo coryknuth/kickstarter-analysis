@@ -5,6 +5,7 @@ Through an examination of various kickstarter campaigns, we have determined some
 We found, as shown below, that there have been more sucessfully theatre projects on Kickstarter than any other category in the data we analyzed. 
 ---  
 ![Parent Category Outcomes](https://user-images.githubusercontent.com/65263502/121791722-ecac4300-cbba-11eb-98f9-f6fbb9edab55.png)
+---
 We also found as shown below, that amoung those theatre campaigns, the vast majority were plays.
 ---
 ![Subcategory Statistics](https://user-images.githubusercontent.com/65263502/121791727-fa61c880-cbba-11eb-9ea7-21c9ee85e73a.png)
