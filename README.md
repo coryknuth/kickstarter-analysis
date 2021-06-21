@@ -6,7 +6,7 @@ After the play *"Fever"*, written by Louise, achieved much of it's Kickstarter f
 ## Launch Date
 One of the key areas we looked at was the starting date of each campaign, to look for trends among the successful campaigns and determine if the timeframe for a theatre campaign was important. We compared the success vs. the launch date for campaigns in the "plays" category against other kickstarter categories to confirm that there was a specific timeframe in which plays performed better. Here is what we found.
 
-![Theatre_Outcomes_vs_Launch](C:\Users\Cory\Desktop\Classwork\Crowdfunding Analysis\Resources\Theatre_Outcomes_vs_Launch.png)
+![Theatre_Outcomes_vs_Launch](https://github.com/coryknuth/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png?raw=true)
 
 # Summer Fun for Theatre Fundraising
 As the data in this chart indicates, the summer months, particularly May, have a large spike in the number of successful theatre campaigns compared to the rest of the year. This is not a trend that we found across all Kickstarter campaigns, it only reflected strongly in the theatre category. The only potential challenge with this conclusion is the size of our dataset at 1,393 theatre campaigns. With more data we could confirm this finding even more strongly. However, even with this current data, the May trend is quite strong. We firmly support the conclusion that May is the ideal starting month for a future campaign.
@@ -14,7 +14,7 @@ As the data in this chart indicates, the summer months, particularly May, have a
 ## Goal Amounts
 The other critical factor we discovered for theatre campaigns is the amount of the fundraising goal for the campaign. We again compared trends among campaign goals with success rates, and compared these findings in and out of the theatre category. Here is what we found.
 
-![Outcomes_vs_Goals](C:\Users\Cory\Desktop\Classwork\Crowdfunding Analysis\Resources\Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/coryknuth/kickstarter-analysis/blob/main/resources/Theatre_Outcomes_vs_Launch.png?raw=true)
 
 ## The Ideal Goal
 In looking at the data around the percent of campaigns which successfully achieved their campaign goal in the theatre category we found the point at which a campaign became more likely to fail than success is $5,000. One challenge in this data is that in the $35,000 to $45,000 range we found a pocket of successful campaigns. However, only 6 of these campaigns were in the "plays" subcategory, and half of those 6 were "staff picked" campaigns, which increases awareness dramatically around the campaign. This left us with only 3 non-staff picked campaigns that were successful in that goal range. There also doesn't appear, at least with the data we currently have, to be any other notable factors which made this very specific goal range more successful than not. Based on the other data, the ideal fundraising goal for a future campaign is $5,000 or less.
