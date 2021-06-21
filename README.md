@@ -25,8 +25,8 @@ There are two potential limitations with the dataset we used. The number of thea
 ## Conclusions
 In summary, we believe there are a few critical factors to maximize the chances of success for future fundraising campaigns for plays.
 
-*The ideal starting date for the campaign would be in May or June.
-*Late fall and Winter months should be avoided if at all possible, as we found the least amount of successful campaigns in Sep - Jan.
-*The ideal goal amount for the campaign would not exceed $5,000, as the likelihood of success in this category falls after that point.
+* The ideal starting date for the campaign would be in May or June.
+* Late fall and Winter months should be avoided if at all possible, as we found the least amount of successful campaigns in Sep - Jan.
+* The ideal goal amount for the campaign would not exceed $5,000, as the likelihood of success in this category falls after that point.
 
 Following these guidelines will give your future plays the greatest chance of successfully reaching their fundraising goal, and making it all the way to the stage. Can't wait to enjoy all of the future performances!
